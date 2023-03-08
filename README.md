@@ -1,0 +1,2 @@
+# JavaGomokuGameInTerminal
+一个在控制台终端玩的java五子棋小游戏
